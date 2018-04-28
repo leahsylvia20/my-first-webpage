@@ -3,7 +3,8 @@ h1 {
   line-height: inherit;
   text-align: left;
   font-family:serif;
-  font-size: 30px;
+  font-size: 40px;
+  padding-top: 30px;
 }
 
 h2 {
@@ -24,10 +25,11 @@ ol{
   text-align: left;
   color: gray;
   font-family: sans-serif;
+  padding-top: 30px;
+}
 
-img {
-  padding-bottom: 30px;
-  width: 400px;
+img{
+  padding-bottom: 35px;
 }
 
 p {
@@ -38,5 +40,5 @@ p {
 }
 
 body {
-  background-color: #ffffe6
+  background-color: #eff2f7
 }
