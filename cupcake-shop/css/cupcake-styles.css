@@ -30,7 +30,6 @@ h2.special {
   font-family: serif;
   font-weight:600;
   color: #161144;
-  padding-bottom: 10px;
   text-align: left;
 }
 
@@ -70,7 +69,7 @@ ul {
 }
 
 img {
-  padding: 10px;
+  padding-right: 10px;
   float: left;
 }
 
